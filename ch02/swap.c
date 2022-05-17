@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void swap1(int x, int y);
-void swap2(int *x, int *y);
+void swap1(int x, int y); // incorrect swap function
+void swap2(int *x, int *y); // correct swap function
 
 int main(void)
 {
