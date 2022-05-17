@@ -9,7 +9,6 @@ int main(void)
 	int b = 20;
 
 	swap2(&a, &b);
-
 	printf("a: %i - b: %i\n", a, b);
 
 	return 0;
